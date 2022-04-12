@@ -4,9 +4,9 @@ import { envios } from '../lib/admin/envios.js'
 import { enviosForm } from '../lib/admin/envioForm.js'
 import { listaVentas } from '../lib/admin/listaVentas.js'
 
-let view = {};
+let view = {}; 
 let model = {};
-
+ 
 console.log("render");
 
 home(view, model) //home.js
